@@ -1,4 +1,4 @@
-package point1.basepatterns.creational.abstractfactory;
+package point1.basepatterns.creational.factory;
 
 public class TableLamp extends Illuminant {
     @Override

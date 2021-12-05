@@ -1,0 +1,6 @@
+Singleton initialized at 2021-12-05T21:49:14.216646700
+Thread one message! point1.basepatterns.creational.singleton.Singleton@7de3dc28
+Thread three message! point1.basepatterns.creational.singleton.Singleton@7de3dc28
+Thread two message! point1.basepatterns.creational.singleton.Singleton@7de3dc28
+Thread five message! point1.basepatterns.creational.singleton.Singleton@7de3dc28
+Thread fourth message! point1.basepatterns.creational.singleton.Singleton@7de3dc28
