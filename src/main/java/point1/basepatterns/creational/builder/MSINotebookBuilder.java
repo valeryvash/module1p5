@@ -11,7 +11,7 @@ public class MSINotebookBuilder extends NotebookBuilder {
 
     @Override
     public NotebookBuilder buildName() {
-        this.msiNotebook.setName("Leopard");
+        msiNotebook.setName("Leopard");
         return this;
     }
 

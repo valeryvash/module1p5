@@ -21,6 +21,5 @@ public class Client {
                 .addTopping(Pizza.Topping.HUM)
                 .sauceInside()
                 .build();
-
     }
 }

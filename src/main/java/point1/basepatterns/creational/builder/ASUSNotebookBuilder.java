@@ -5,31 +5,36 @@ public class ASUSNotebookBuilder extends NotebookBuilder {
 
     @Override
     protected NotebookBuilder createNotebook() {
-        return null;
+        this.asusNotebook = new Notebook();
+        return this;
     }
 
     @Override
     protected NotebookBuilder buildName() {
-        return null;
+        this.asusNotebook.setName("Asus x5");
+        return this;
     }
 
     @Override
     protected NotebookBuilder buildVendor() {
-        return null;
+        this.asusNotebook.setVendor(Vendor.ASUS);
+        return this;
     }
 
     @Override
     protected NotebookBuilder buildProcessorVendor() {
-        return null;
+        this.asusNotebook.setProcessorVendor(ProcessorVendor.AMD);
+        return this;
     }
 
     @Override
     protected NotebookBuilder buildScreenDiagonal() {
-        return null;
+        this.asusNotebook.setScreenDiagonal(16);
+        return this;
     }
 
     @Override
     public Notebook buildNotebook() {
-        return null;
+        return this.asusNotebook;
     }
 }

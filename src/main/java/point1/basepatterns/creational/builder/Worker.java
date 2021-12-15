@@ -9,6 +9,7 @@ public class Worker {
 
     public Notebook buildNotebook() {
         return this.nbb
+                .createNotebook()
                 .buildName()
                 .buildVendor()
                 .buildProcessorVendor()

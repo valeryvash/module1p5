@@ -26,9 +26,9 @@ public class Notebook {
     public String toString() {
         return
                 "Notebook" +
-                "name: " + this.name+
-                "vendor: " + this.vendor+
-                "processorVendor: " + this.processorVendor+
-                "screenDiagonal: " + this.screenDiagonal;
+                "\nname: " + this.name+
+                "\nvendor: " + this.vendor+
+                "\nprocessorVendor: " + this.processorVendor+
+                "\nscreenDiagonal: " + this.screenDiagonal;
     }
 }
