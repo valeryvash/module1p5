@@ -1,4 +1,4 @@
-package point1.basepatterns.behavioral.meadiator.wiki;
+package point1.basepatterns.behavioral.meadiator.example;
 
 public class Runner {
     public static void main(String[] args) {
@@ -11,6 +11,6 @@ public class Runner {
         m.setColleague2(c2);
 
         c1.send("Hi folks!");
-        c2.send("Hi jerk!");
+        c2.send("Hi man!");
     }
 }

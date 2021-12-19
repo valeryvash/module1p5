@@ -1,4 +1,4 @@
-package point1.basepatterns.behavioral.meadiator.wiki;
+package point1.basepatterns.behavioral.meadiator.example;
 
 public class ConcreteMediator extends Mediator {
     private ConcreteColleague1 colleague1;

@@ -1,4 +1,4 @@
-package point1.basepatterns.behavioral.meadiator.wiki;
+package point1.basepatterns.behavioral.meadiator.example;
 
 public abstract class Colleague {
     protected Mediator mediator;

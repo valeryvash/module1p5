@@ -1,4 +1,4 @@
-package point1.basepatterns.behavioral.memento.wikiexample;
+package point1.basepatterns.behavioral.memento.example;
 
 import point1.basepatterns.behavioral.iterator.Iterator;
 
@@ -28,7 +28,6 @@ public class Application {
         caretaker.addMemento(originator.saveState());
         originator.setState("5");
         caretaker.addMemento(originator.saveState());
-
 
         Iterator it = caretaker.getIterator();
 

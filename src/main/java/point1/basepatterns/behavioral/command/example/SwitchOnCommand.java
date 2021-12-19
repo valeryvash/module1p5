@@ -1,4 +1,4 @@
-package point1.basepatterns.behavioral.command.wikiexample;
+package point1.basepatterns.behavioral.command.example;
 
 public class SwitchOnCommand implements Command {
     private final Light light;

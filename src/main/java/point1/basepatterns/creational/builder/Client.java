@@ -10,8 +10,5 @@ public class Client {
 
         System.out.println(n.toString());
 
-
-
-
     }
 }

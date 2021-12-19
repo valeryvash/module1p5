@@ -10,8 +10,8 @@ public class Client {
 
 
         IlluminantFactory aif =
-                new FloodLampFactory();
-//                new TableLampFactory();
+//                new FloodLampFactory();
+                new TableLampFactory();
 
         Illuminant lamp = aif.createIlluminant();
 

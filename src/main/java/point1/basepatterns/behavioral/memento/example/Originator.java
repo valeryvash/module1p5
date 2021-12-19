@@ -1,4 +1,4 @@
-package point1.basepatterns.behavioral.memento.wikiexample;
+package point1.basepatterns.behavioral.memento.example;
 
 public class Originator {
     private String state;

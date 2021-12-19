@@ -1,4 +1,4 @@
-package point1.basepatterns.behavioral.command.wikiexample;
+package point1.basepatterns.behavioral.command.example;
 
 public class CommandDemo {
     public static void main(String[] args) {
